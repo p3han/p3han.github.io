@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Peiyuan Han on Peiyuan Han | AI Engineer</title>
-    <link>https://p3han.github.io/</link>
-    <description>Recent content in Peiyuan Han on Peiyuan Han | AI Engineer</description>
+    <title>踩坑记录 on Peiyuan Han | AI Engineer</title>
+    <link>https://p3han.github.io/tags/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 踩坑记录 on Peiyuan Han | AI Engineer</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://p3han.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://p3han.github.io/tags/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo &#43; PaperMod 部署 GitHub Pages 样式丢失问题总结</title>
       <link>https://p3han.github.io/blog/hugo-papermod-sri-css-bug/</link>
@@ -30,18 +30,6 @@ The resource has been blocked.
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;在 &lt;code&gt;MyHugoSite/public/&lt;/code&gt; 中添加 &lt;code&gt;.gitattributes&lt;/code&gt; 文件，内容如下：&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LoRA 微调 Qwen3 模型</title>
-      <link>https://p3han.github.io/projects/qwen-lora/</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://p3han.github.io/projects/qwen-lora/</guid>
-      <description>&lt;p&gt;🚀 使用 Qwen3-0.6B 模型 + LoRA 微调框架，在 PromptCBLUE 数据集上进行中文医疗问答训练。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;使用 4070 单卡，显存压缩至 6GB&lt;/li&gt;
-&lt;li&gt;实现 F1 提升 +8.5%，loss 降至 0.42&lt;/li&gt;
-&lt;li&gt;项目地址：&lt;a href=&#34;https://github.com/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
