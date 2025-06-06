@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Peiyuan Han | AI Engineer</title>
-    <link>https://peiyuanhan.github.io/projects/</link>
+    <link>https://p3han.github.io/projects/</link>
     <description>Recent content in Projects on Peiyuan Han | AI Engineer</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://peiyuanhan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://p3han.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LoRA 微调 Qwen3 模型</title>
-      <link>https://peiyuanhan.github.io/projects/qwen-lora/</link>
+      <link>https://p3han.github.io/projects/qwen-lora/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://peiyuanhan.github.io/projects/qwen-lora/</guid>
+      <guid>https://p3han.github.io/projects/qwen-lora/</guid>
       <description>&lt;p&gt;🚀 使用 Qwen3-0.6B 模型 + LoRA 微调框架，在 PromptCBLUE 数据集上进行中文医疗问答训练。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;使用 4070 单卡，显存压缩至 6GB&lt;/li&gt;
