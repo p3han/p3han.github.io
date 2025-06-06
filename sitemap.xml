@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://p3han.github.io/blog/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://p3han.github.io/tags/github-pages/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://p3han.github.io/tags/hugo/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://p3han.github.io/blog/hugo-papermod-sri-css-bug/</loc>
+    <loc>https://p3han.github.io/posts/hugo-papermod-sri-css-bug/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://p3han.github.io/tags/papermod/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://p3han.github.io/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://p3han.github.io/posts/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://p3han.github.io/tags/sri/</loc>
